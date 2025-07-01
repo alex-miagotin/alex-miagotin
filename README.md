@@ -33,7 +33,8 @@ Software Engineer with a strong background in frontend development, backend arch
 
 ## 💼 **Work Experience**
 
-### 🔷 **[DNA Script, Inc.](https://github.com/dna-script-inc) (2021 — Present)**
+### 🔷 **Svitla Systems Inc.**
+**Project:** **[DNA Script, Inc.](https://github.com/dna-script-inc) (2021 — Present)**
 
 **Role:** Software Engineer (C++, TypeScript)
 
@@ -54,42 +55,36 @@ Building a hardware-integrated desktop application with Electron and a C++ backe
 ---
 
 ### 🔷 **Svitla Systems Inc.**
-
 **Role:** Software Engineer  
 **Project:** Risk Management Software (Sphera)  
 **Duration:** Jul 2020 – Dec 2020  
 **Stack:** C#, Visual Basic, React.js, MySQL, Azure DevOps
 
 ### 🔷 **Svitla Systems Inc.**
-
 **Role:** Frontend Engineer  
 **Project:** Alpha FX – Currency Exchange Platform  
 **Duration:** Mar 2020 – Jul 2020  
 **Stack:** React.js, TypeScript, RxJS, Material UI, Jenkins
 
 ### 🔷 **Tumli**
-
 **Role:** Web Developer  
 **Duration:** Nov 2018 – Dec 2019  
 **Project:** Graphic Design Platform  
 **Stack:** Laravel, Python, AWS, React, TypeScript, MVVM
 
 ### 🔷 **WpWay**
-
 **Role:** Frontend Web Developer  
 **Duration:** Dec 2017 – Oct 2018  
 **Project:** WordPress Theme Builder  
 **Stack:** React.js, Redux, PHP, Webpack
 
 ### 🔷 **CloudBuckit**
-
 **Role:** Web Developer  
 **Duration:** 2016 – 2017  
 **Project:** Cloud Storage Integration Tool  
 **Stack:** .NET, React.js, Redux, SASS
 
 ### 🔷 **Itembridge**
-
 **Role:** Frontend Developer  
 **Duration:** 2014 – 2017  
 **Project:** HTML & WordPress Templates  
