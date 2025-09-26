@@ -17,17 +17,16 @@
 
 ## 🧠 Summary
 
-Software Engineer with a strong background in frontend development, backend architecture, and hardware-software integration. Passionate about clean code, modern tech stacks, and building seamless user experiences. Skilled in C++, TypeScript, Electron, React. Adept at collaborating across teams, optimizing performance, and maintaining test-driven, scalable systems.
+Software Engineer specializing in full-stack web development and hardware-software integration. Experienced in designing scalable backend architectures and building responsive frontend interfaces with C++, TypeScript, Electron, and React. Passionate about clean, maintainable code, modern tech stacks, and creating seamless user experiences. Skilled in cross-team collaboration, performance optimization, and delivering test-driven, high-quality software solutions.
 
 ---
 
 ## Technical skills
 
 * **Programming Languages:** C++, TypeScript, JavaScript, Python, SQL
-* **Web Technologies:** NestJS, React, Tailwind CSS, HTML, CSS
+* **Web Technologies:** NestJS, Next.js, React, Tailwind CSS, HTML, CSS
 * **Database Technologies:** PostgreSQL, Drizzle ORM
 * **Tools & Frameworks:**
-
   * **Docker:** Containerization for environment consistency and deployment.
   * **CMake + Conan:** Build and dependency management for C++ projects.
   * **Electron:** Framework for building cross-platform desktop applications.
@@ -42,7 +41,7 @@ Software Engineer with a strong background in frontend development, backend arch
 
 ## 💼 Work Experience
 
-### **Software Engineer (Full Stack & Desktop)**
+### **Software Engineer | Full-Stack Web & Hardware Integration | NestJS • TRPC • FastAPI • PostgreSQL • Next.js • Electron • C++ • Protobuf • MQTT**
 
 [DNA Script, Inc.](https://github.com/dna-script-inc) — *May 2025 – Present | Remote*
 
