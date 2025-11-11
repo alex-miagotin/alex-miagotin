@@ -17,48 +17,57 @@
 
 ## 🧠 Summary
 
-Software Engineer specializing in full-stack web development and hardware-software integration. Experienced in designing scalable backend architectures and building responsive frontend interfaces with C++, TypeScript, Electron, and React. Passionate about clean, maintainable code, modern tech stacks, and creating seamless user experiences. Skilled in cross-team collaboration, performance optimization, and delivering test-driven, high-quality software solutions.
+**Senior Software Engineer** specializing in **Embedded Systems** and **Full-Stack Platform Architecture**. Proven expertise bridging low-level **C++ hardware control** (serial communication, real-time workflows) with high-performance **NestJS/React** web platforms. Expert in architecting distributed systems using **Protobuf, WebSockets, and MQTT**, and integrating specialized services via **Python/FastAPI**. Successfully drove performance and scalability initiatives, including **database-level pagination optimization** and architectural clean-up (circular dependencies removal). Dedicated to delivering robust, maintainable, and high-quality software solutions across the entire product lifecycle.
 
 ---
-
 ## Technical skills
 
-* **Programming Languages:** C++, TypeScript, JavaScript, Python, SQL
-* **Web Technologies:** NestJS, Next.js, React, Tailwind CSS, HTML, CSS
-* **Database Technologies:** PostgreSQL, Drizzle ORM
-* **Tools & Frameworks:**
-  * **Docker:** Containerization for environment consistency and deployment.
-  * **CMake + Conan:** Build and dependency management for C++ projects.
-  * **Electron:** Framework for building cross-platform desktop applications.
-  * **Unit Testing:** Experience with testing frameworks to ensure high-quality, maintainable code.
-  * **Protobuf:** Experience with Protocol Buffers for fast data serialization and communication.
-  * **WebSockets:** Used for real-time communication in web and desktop applications.
-  * **Git & Version Control:** Proficient in Git for source code management and collaboration.
-* **Agile & Project Management:** Jira for task management, Kanban, and Agile methodologies for efficient project workflows.
-* **Soft Skills:** Problem-solving, adaptability, collaboration, time management, teamwork, communication
+* **Programming Languages:** **C++ (Expert)**, TypeScript, JavaScript, Python, SQL
+* **Backend Frameworks:** **NestJS**, **FastAPI**, Node.js (Runtime)
+* **Frontend/UI:** React, Next.js, Electron.js, Tailwind CSS
+* **Database & ORM:** PostgreSQL, Drizzle ORM
+* **Communication Protocols:** **Protobuf**, **MQTT**, **WebSockets**, Serial Communication
+* **C++ Tooling & DevOps:**
+  * **Build Systems:** CMake, Conan (Dependency Management)
+  * **Containerization:** Docker
+  * **Desktop/UI:** Electron (Cross-platform), QT (Prior Experience)
+* **Quality & Methodology:** Unit/Integration Testing, Agile (Jira/Kanban), Git
 
 ---
 
 ## 💼 Work Experience
 
-### **Software Engineer | Full-Stack Web & Hardware Integration | NestJS • TRPC • FastAPI • PostgreSQL • Next.js • Electron • C++ • Protobuf • MQTT**
+### **Senior Software Engineer | Embedded Systems, Full-Stack Development, & Scientific Services**
 
 [DNA Script, Inc.](https://github.com/dna-script-inc) — *May 2025 – Present | Remote*
 
-Built a comprehensive bioinformatics platform for gene design, construct management, and lab automation. Developed a scalable backend with NestJS and TypeScript, frontend in React, and a Linux desktop app in C++ with Electron. Enabled real-time communication using WebSockets, Protobuf, and MQTT.
+***Technologies: C++ • NestJS • React • FastAPI • PostgreSQL • Protobuf • MQTT • Electron***
 
-**Responsibilities:**
+**Focus:** **Maintain and enhance the entire DNA synthesis software ecosystem (50/50 split).** Responsible for low-level **C++ controller** development and high-level **web platform optimization** and architectural design (NestJS/React/FastAPI).
 
-* Designed and implemented backend microservices for gene design, construct management, and laboratory workflow automation using **NestJS** and **TypeScript**.
-* Developed robust business logic for gene design, including transactional workflows, error handling, and event-driven updates.
-* Built and optimized data models and validation schemas for genetic constructs, gene sequences, and oligonucleotide design.
-* Integrated with laboratory instruments and external bioinformatics tools, handling data parsing, transformation, and validation.
-* Developed a **Linux desktop application in C++**, with **Electron** as the UI layer, enabling user interaction with lab hardware and bioinformatics tools.
-* Implemented real-time communication between instruments, desktop, and backend using **WebSockets**, **Protocol Buffers (protobuf)**, and **MQTT** for efficient and reliable messaging.
-* Built and maintained frontend components with **React** and **TypeScript**, supporting gene design, construct visualization, and validation feedback.
-* Wrote comprehensive **unit and integration tests** across backend, frontend, and desktop layers to ensure high reliability and maintainability.
-* Collaborated with multidisciplinary teams to deliver seamless user experiences and support complex scientific workflows.
-* Maintained clear documentation and enforced coding standards to support team productivity and future development.
+### 1. Instrument Control & Embedded Systems (C++ & Hardware) 🛠️
+
+* Engineered and maintained the core **C++ controller** application, managing **real-time hardware control** (motion, fluidics, dispensing) via serial port communication.
+* Designed and implemented all critical synthesis workflows, including changing reagents, consumables, and managing plate movement across stations.
+* Established high-speed, reliable communication between the controller and UI using **WebSockets** and **Google Protobuf**.
+* Integrated the instrument's **MQTT client** for external print job execution and real-time status reporting to the web app.
+
+---
+
+### 2. Web Platform, Scalability, & Scientific Services (NestJS & React) 🌐
+
+* Drove significant **platform scalability** by refactoring table pagination to efficient **database-level LIMIT/OFFSET queries** (**PostgreSQL** and **Drizzle ORM**).
+* **Architected and deployed specialized API services** using **Python/FastAPI** to operationalize scientific algorithms (oligos design, sequence complexity calculation), integrating them with the **NestJS** console.
+* Improved code quality by identifying and resolving **circular dependencies** and removing unnecessary data transformations across the NestJS backend.
+* Reworked instrument communication logic on the platform to accurately reflect and set **instrument availability**.
+* Refactored core **React** UI components to enforce strict **separation of concerns** (logic from view), reducing complexity and eliminating component bugs.
+
+---
+
+### 3. General Development & System Maintenance 🧑‍💻
+
+* **Full Lifecycle Support:** Routinely implemented new features, fixed complex bugs, and maintained stability across both the C++ controller and the web application.
+* **Version Management:** Provided ongoing maintenance and support for older software versions to ensure compatibility and reliability for deployed instruments.
 
 ---
 
