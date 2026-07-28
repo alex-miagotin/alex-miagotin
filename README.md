@@ -1,23 +1,10 @@
-<div align="center">
+**Software engineer** at [DNAscript](https://www.dnascript.com), building the software that runs a benchtop DNA synthesizer — instrument firmware, cloud backend, and the UI that ties them together. Joined in 2021 to build the Syntax synthesizer's original operator UI in C++ and Electron/React from an empty repo; the scope grew from there into the instrument controller, the cloud backend, and everything in between.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,60:16213e,100:1a1b2e&height=180&section=header&text=Oleksandr%20Miagotin&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20C%2B%2B%20·%20TypeScript%20·%20Biotech&descAlignY=58&descSize=16&descColor=7aa2f7" />
+- Five years moving up and down the stack: C++ on the instrument, NestJS/Postgres in the cloud, React on the screen the operator actually uses
+- Designed and built the auth system from a blank page — sessions, JWT, MFA, brute-force protection — because a lab instrument touching real experiments doesn't get a shaky login
+- Most at home where hardware meets software: MQTT/Protobuf instrument integration, lab automation, the code where a bug means a robot does the wrong thing
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=480&lines=Software+Engineer+%40+DNAscript;C%2B%2B+firmware+%E2%86%92+cloud+backend+%E2%86%92+React+UI;Gene+synthesis+%7C+Lab+automation+%7C+Auth;Turning+biology+into+software)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=alex-miagotin&style=flat-square&color=7aa2f7&label=profile+views)
-
-</div>
-
-<br/>
-
-**Software engineer** at [DNAscript](https://www.dnascript.com), working across the full stack since 2021 — from C++ instrument firmware to cloud APIs to React UI.
-
-- Built the entire Syntax DNA synthesizer UI from scratch and owned it through 4 hardware generations
-- Designed the full auth stack from zero: sessions, JWT, MFA, brute-force protection, Redis cache
-- Gene design pipelines, Hamilton robot automation, MQTT/Protobuf instrument integration
-- Comfortable at every layer: embedded C++ → backend APIs → database schema → UI
+[LinkedIn](https://linkedin.com/in/alex-miagotin)
 
 ---
 
@@ -47,59 +34,4 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-miagotin&bg_color=1a1b2e&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=7aa2f720&hide_border=true" width="98%" />
-</div>
-
----
-
-### Experience
-
-#### [DNAscript](https://www.dnascript.com) · 2021 – present
-**Software Engineer** · *via Svitla Systems · 2021 – present*
-
-Built the Syntax DNA synthesizer operator UI from scratch in C++ and Electron/React, then expanded across the full platform. Owns the C++ instrument controller (clean system, vacuum, MQTT/Protobuf, motion), Console cloud backend (auth stack, sessions, JWT, MFA, Redis cache, gene design, Hamilton automation), and React frontends. 2,100+ commits across instrument firmware and web platform over 5 years.
-
----
-
-#### Svitla Systems · 2020 – 2021
-**Software Engineer / Frontend Engineer**
-
-Clients: Alpha FX (React, TypeScript, RxJS) and Sphera (C#, React, MySQL, Azure DevOps). Transitioned from frontend to full-stack engineering across both projects.
-
----
-
-#### Tumli · 2018 – 2019
-**Web Developer**
-
-Full-stack web development with Laravel, Python, AWS, React, TypeScript using MVVM architecture.
-
----
-
-#### WpWay · 2017 – 2018
-**Frontend Web Developer**
-
-React, Redux, PHP, Webpack — component-driven frontend development.
-
----
-
-#### Earlier · 2014 – 2017
-**Frontend Developer** · Itembridge / CloudBuckit
-
-Frontend roots: HTML5, CSS3, JavaScript, jQuery, React, .NET, SASS.
-
----
-
-#### Education
-🎓 **Diploma of Engineer, Computer Science** — Lutsk National Technical University *(2012–2015)*  
-🎓 **Computer Science** — Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie *(2010–2011)*
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b2e?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/alex-miagotin)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,60:16213e,100:1a1b2e&height=100&section=footer" />
-
 </div>
