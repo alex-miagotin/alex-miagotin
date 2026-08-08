@@ -32,6 +32,10 @@
 ![React](https://img.shields.io/badge/React-1a1b2e?style=flat-square&logo=react&logoColor=7dcfff)
 ![tRPC](https://img.shields.io/badge/tRPC-1a1b2e?style=flat-square&logo=trpc&logoColor=7aa2f7)
 
+**Learning**
+
+![Rust](https://img.shields.io/badge/Rust-1a1b2e?style=flat-square&logo=rust&logoColor=e0af68)
+
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alex-miagotin&bg_color=1a1b2e&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=7aa2f720&hide_border=true" width="98%" />
 </div>
