@@ -1,18 +1,15 @@
-Senior full-stack software engineer with 5+ years building software that runs regulated laboratory instruments — from the web platform operators use to the C++ code inside the machine.
+I’m a senior full-stack engineer building web applications with TypeScript, React, and Node.js/NestJS, with additional experience in desktop software and hardware integration. Since 2021, I’ve worked on DNA Script’s web platform and laboratory software, supporting scientists from gene design and experiment planning through instrument operation.
 
-At DNA Script since January 2021 — started on Console's original web app, moved to Syntax (instrument control) soon after, then returned to Console as a core engineer when it was rebuilt on NestJS/React in 2024. I now own two production codebases end to end: the TypeScript/NestJS/React Console platform used to design genes, manage orders, and control DNA synthesis instruments, and the C++/Electron control software running on the instruments themselves (Syntax).
+Selected contributions:
+- Web applications: developed gene-design, plate-layout, and laboratory workflow interfaces, supported by shared React components.
+- Backend and security: built NestJS services, asynchronous gene-design processing, authentication, and session management using PostgreSQL and Redis.
+- Desktop and instruments: developed Electron/React interfaces connected to C++ controllers through MQTT and Protocol Buffers, and a standalone Hamilton liquid-handler controller using Rust and Tauri.
 
-What I actually do:
+I take responsibility for technical design and implementation, agree acceptance criteria with QA, and coordinate releases and test cycles. I use clear specifications and small, testable changes to evolve existing systems, and investigate failures across interfaces, backend services, and instrument software.
 
-- Own the Syntax instrument's software end to end since 2021, built from an empty repo — the Electron/React operator UI and the C++ controller driving the hardware, connected over MQTT and Protocol Buffers
-- Own platform authentication and session security — JWT/session hardening, brute-force protection, password policy, Redis-backed session caching
-- Built the MQTT/Protocol Buffers integration connecting Console to Hamilton liquid-handling robots: real-time run monitoring, automated input-file generation, instrument status sync
-- Work daily with 21 CFR Part 11 requirements — audit trails, electronic records, access control — for software used in a regulated biotech environment
-- Contribute to gene design and oligo/plate-layout tooling used directly by lab operators
+Core technologies: TypeScript, React, Node.js, NestJS, PostgreSQL, Redis, C++, Electron, MQTT, Protocol Buffers, Rust, and Tauri.
 
-Stack: TypeScript, NestJS, React, PostgreSQL, Drizzle, Redis, C++, MQTT, Protocol Buffers, Electron, Rust.
-
-I like problems at the boundary of software and physical lab equipment, where a bug isn't just a wrong API response — it's a robot doing the wrong thing. Open to senior full-stack and platform engineering roles in biotech, medtech, or other regulated, hardware-adjacent software.
+Open to senior full-stack roles building web applications and platforms. My experience connecting software with physical equipment brings additional depth to products that span web, desktop, and hardware.
 
 [LinkedIn](https://linkedin.com/in/alex-miagotin)
 
