@@ -1,6 +1,18 @@
-**Tech Lead** at [DNA Script](https://www.dnascript.com), building the software that runs a benchtop DNA synthesizer — instrument control in C++, a TypeScript cloud backend, and a Rust desktop app driving the lab automation hardware alongside it. Joined DNA Script in January 2021 on Console's original web app, moved to build the Syntax synthesizer's operator UI from an empty repo soon after, then returned to Console as a core engineer when it was rebuilt on NestJS/React in 2024 — now own the architecture across instrument, cloud, and the systems connecting them.
+Full-stack and embedded systems engineer with 5+ years building software that runs regulated laboratory instruments — from the web platform operators use to the C++ code inside the machine.
 
-Recent focus: platform authentication and session security (JWT/session hardening, Redis-backed session caching, brute-force protection), the MQTT/Protobuf integration connecting the cloud platform to Hamilton liquid-handling robots, and 21 CFR Part 11 compliance — audit trails, electronic records, access control — for software running in a regulated biotech environment.
+At DNA Script since January 2021 — started on Console's original web app, moved to Syntax (instrument control) soon after, then returned to Console as a core engineer when it was rebuilt on NestJS/React in 2024. I now own two production codebases end to end: the TypeScript/NestJS/React Console platform used to design genes, manage orders, and control DNA synthesis instruments, and the C++/Electron control software running on the instruments themselves (Syntax).
+
+What I actually do:
+
+- Own the Syntax instrument's software end to end since 2021, built from an empty repo — the Electron/React operator UI and the C++ controller driving the hardware, connected over MQTT and Protocol Buffers
+- Own platform authentication and session security — JWT/session hardening, brute-force protection, password policy, Redis-backed session caching
+- Built the MQTT/Protocol Buffers integration connecting Console to Hamilton liquid-handling robots: real-time run monitoring, automated input-file generation, instrument status sync
+- Work daily with 21 CFR Part 11 requirements — audit trails, electronic records, access control — for software used in a regulated biotech environment
+- Contribute to gene design and oligo/plate-layout tooling used directly by lab operators
+
+Stack: TypeScript, NestJS, React, PostgreSQL, Drizzle, Redis, C++, MQTT, Protocol Buffers, Electron, Rust.
+
+I like problems at the boundary of software and physical lab equipment, where a bug isn't just a wrong API response — it's a robot doing the wrong thing. Open to senior full-stack and platform engineering roles in biotech, medtech, or other regulated, hardware-adjacent software.
 
 [LinkedIn](https://linkedin.com/in/alex-miagotin)
 
