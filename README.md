@@ -1,4 +1,4 @@
-Full-stack and embedded systems engineer with 5+ years building software that runs regulated laboratory instruments — from the web platform operators use to the C++ code inside the machine.
+Full-stack and hardware integration engineer with 5+ years building software that runs regulated laboratory instruments — from the web platform operators use to the C++ code inside the machine.
 
 At DNA Script since January 2021 — started on Console's original web app, moved to Syntax (instrument control) soon after, then returned to Console as a core engineer when it was rebuilt on NestJS/React in 2024. I now own two production codebases end to end: the TypeScript/NestJS/React Console platform used to design genes, manage orders, and control DNA synthesis instruments, and the C++/Electron control software running on the instruments themselves (Syntax).
 
