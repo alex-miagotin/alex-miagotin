@@ -36,7 +36,7 @@ I like problems at the boundary of software and physical lab equipment, where a 
 ![Docker](https://img.shields.io/badge/Docker-1a1b2e?style=flat-square&logo=docker&logoColor=7aa2f7)
 ![MQTT](https://img.shields.io/badge/MQTT-1a1b2e?style=flat-square&logo=eclipse&logoColor=bb9af7)
 ![Protobuf](https://img.shields.io/badge/Protobuf-1a1b2e?style=flat-square&logo=google&logoColor=7dcfff)
-![BullMQ](https://img.shields.io/badge/BullMQ-1a1b2e?style=flat-square&logo=npm&logoColor=9ece6a)
+![Bull Queue](https://img.shields.io/badge/Bull%20Queue-1a1b2e?style=flat-square&logo=npm&logoColor=9ece6a)
 
 **Desktop & Frontend**
 
