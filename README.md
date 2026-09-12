@@ -1,5 +1,9 @@
 **Tech Lead** at [DNA Script](https://www.dnascript.com), building the software that runs a benchtop DNA synthesizer — instrument control in C++, a TypeScript cloud backend, and a Rust desktop app driving the lab automation hardware alongside it. Joined in 2021 to build the Syntax synthesizer's operator UI from an empty repo; now own the architecture across instrument, cloud, and the systems connecting them.
 
+Recent focus: platform authentication and session security (JWT/session hardening, Redis-backed session caching, brute-force protection), the MQTT/Protobuf integration connecting the cloud platform to Hamilton liquid-handling robots, and 21 CFR Part 11 compliance — audit trails, electronic records, access control — for software running in a regulated biotech environment.
+
+3,000+ commits across the platform and instrument codebases since 2021.
+
 [LinkedIn](https://linkedin.com/in/alex-miagotin)
 
 ---
