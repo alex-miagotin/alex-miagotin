@@ -2,8 +2,6 @@
 
 Recent focus: platform authentication and session security (JWT/session hardening, Redis-backed session caching, brute-force protection), the MQTT/Protobuf integration connecting the cloud platform to Hamilton liquid-handling robots, and 21 CFR Part 11 compliance — audit trails, electronic records, access control — for software running in a regulated biotech environment.
 
-1,400+ commits across the platform, instrument, and shared-infrastructure codebases since 2021.
-
 [LinkedIn](https://linkedin.com/in/alex-miagotin)
 
 ---
