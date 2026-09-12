@@ -1,15 +1,20 @@
-I’m a senior full-stack engineer building web applications with TypeScript, React, and Node.js/NestJS, with additional experience in desktop software and hardware integration. Since 2021, I’ve worked on DNA Script’s web platform and laboratory software, supporting scientists from gene design and experiment planning through instrument operation.
+I'm a senior full-stack engineer who builds the software between a scientist's screen and the machine doing the work. Since 2021 I've worked on DNA Script's laboratory platform — the React/NestJS web applications scientists use, and the C++ and Electron software running the DNA synthesis instruments themselves.
 
-Selected contributions:
-- Web applications: developed gene-design, plate-layout, and laboratory workflow interfaces, supported by shared React components.
-- Backend and security: built NestJS services, asynchronous gene-design processing, authentication, and session management using PostgreSQL and Redis.
-- Desktop and instruments: developed Electron/React interfaces connected to C++ controllers through MQTT and Protocol Buffers, and a standalone Hamilton liquid-handler controller using Rust and Tauri.
+What I build:
+- Instrument software: created the Syntax operator interface in October 2021 — run scheduling, reagent and consumable workflows, run reports, maintenance and diagnostics — and later brought the platform onto a new instrument hardware generation, with the C++ synthesis and maintenance workflows underneath it connected over MQTT and Protocol Buffers.
+- Web platform: gene-design, plate-layout and laboratory workflow interfaces in React and TypeScript with NestJS services behind them, and gene design moved off the request path onto an asynchronous pipeline.
+- Authentication and security: cookie-based sessions, multi-factor authentication, brute-force protection and Redis-backed session caching over PostgreSQL, later consolidated into a single owner for session state and recovery.
+- Desktop: shipped the Hamilton liquid-handler controller as a standalone Rust and Tauri application, replacing its Python backend.
 
-I take responsibility for technical design and implementation, agree acceptance criteria with QA, and coordinate releases and test cycles. I use clear specifications and small, testable changes to evolve existing systems, and investigate failures across interfaces, backend services, and instrument software.
+I also translate 21 CFR Part 11 requirements into specifications for instrument authentication, access control and audit trails.
+
+I work from clear specifications, agree acceptance criteria with QA before development starts, and investigate failures across the software-hardware boundary with the instrument QA team.
 
 Core technologies: TypeScript, React, Node.js, NestJS, PostgreSQL, Redis, C++, Electron, MQTT, Protocol Buffers, Rust, and Tauri.
 
-Open to senior full-stack roles building web applications and platforms. My experience connecting software with physical equipment brings additional depth to products that span web, desktop, and hardware.
+I like problems where software meets physical equipment — where a bug isn't just a wrong API response, but a machine doing the wrong thing.
+
+Open to senior full-stack and platform roles, particularly in laboratory automation, regulated environments, and software connected to physical systems.
 
 [LinkedIn](https://linkedin.com/in/alex-miagotin)
 
