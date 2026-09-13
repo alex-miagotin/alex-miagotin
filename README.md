@@ -1,20 +1,20 @@
-I'm a senior full-stack engineer who builds the software between a scientist's screen and the machine doing the work. Since 2021 I've worked on DNA Script's laboratory platform — the React/NestJS web applications scientists use, and the C++ and Electron software running the DNA synthesis instruments themselves.
+I'm a senior full-stack engineer and hands-on technical lead with 11 years in software, building the software between a scientist's screen and the machine doing the work. Since 2021 I've worked on the laboratory platform of DNA Script, the biotech company behind the Syntax benchtop DNA synthesizer — the React/NestJS web applications scientists use, and the C++ and Electron software that drives the instrument hardware.
 
 What I build:
-- Instrument software: created the Syntax operator interface in October 2021 — run scheduling, reagent and consumable workflows, run reports, maintenance and diagnostics — and later brought the platform onto a new instrument hardware generation, with the C++ synthesis and maintenance workflows underneath it connected over MQTT and Protocol Buffers.
-- Web platform: gene-design, plate-layout and laboratory workflow interfaces in React and TypeScript with NestJS services behind them, and gene design moved off the request path onto an asynchronous pipeline.
-- Authentication and security: cookie-based sessions, multi-factor authentication, brute-force protection and Redis-backed session caching over PostgreSQL, later consolidated into a single owner for session state and recovery.
-- Desktop: shipped the Hamilton liquid-handler controller as a standalone Rust and Tauri application, replacing its Python backend.
+- Instrument software: built the Electron and Next.js replacement for the Syntax Qt/QML operator interface — run scheduling, reagent and consumable workflows, run reports, maintenance and diagnostics — with the C++ synthesis and maintenance workflows underneath it connected over MQTT and Protocol Buffers.
+- Web platform: gene-design, plate-layout and laboratory workflow interfaces in React, TypeScript and Tailwind CSS with NestJS and tRPC services behind them, tested with Vitest, and gene design moved off the request path onto an asynchronous pipeline.
+- Authentication and security: built the platform's authentication — cookie-based sessions, multi-factor authentication, brute-force protection and Redis-backed session caching over PostgreSQL — and am now specifying its extension to the instruments.
+- Laboratory automation: extracted the Hamilton liquid-handler controller into its own Rust and Tauri desktop application, replacing its Python backend, connected to the platform through an EMQX broker.
 
-I also translate 21 CFR Part 11 requirements into specifications for instrument authentication, access control and audit trails.
+As technical lead I set the authentication and Hamilton controller architecture, review the team's pull requests, and translate 21 CFR Part 11 requirements into specifications for instrument authentication, access control and audit trails.
 
-I work from clear specifications, agree acceptance criteria with QA before development starts, and investigate failures across the software-hardware boundary with the instrument QA team.
+I work from written specifications with acceptance criteria that development and QA both build and verify against, and investigate failures across the software-hardware boundary with the instrument QA team.
 
-Core technologies: TypeScript, React, Node.js, NestJS, PostgreSQL, Redis, C++, Electron, MQTT, Protocol Buffers, Rust, and Tauri.
+Core technologies: TypeScript, Python, React, Node.js, NestJS, tRPC, PostgreSQL, Redis, Vitest, C++, Electron, MQTT, Protocol Buffers, Rust, and Tauri.
 
 I like problems where software meets physical equipment — where a bug isn't just a wrong API response, but a machine doing the wrong thing.
 
-Open to senior full-stack and platform roles, particularly in laboratory automation, regulated environments, and software connected to physical systems.
+Open to senior full-stack, backend and hands-on technical-lead roles, particularly in laboratory automation, regulated environments, and software connected to physical systems.
 
 [LinkedIn](https://linkedin.com/in/alex-miagotin)
 
