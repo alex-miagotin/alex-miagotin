@@ -16,7 +16,7 @@ I like problems where software meets physical equipment — where a bug isn't ju
 
 Open to senior full-stack, backend and hands-on technical-lead roles, particularly in laboratory automation, regulated environments, and software connected to physical systems.
 
-[LinkedIn](https://linkedin.com/in/alex-miagotin)
+[CV site](https://alex-miagotin.github.io/) · [LinkedIn](https://linkedin.com/in/alex-miagotin)
 
 ---
 
